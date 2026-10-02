@@ -1,0 +1,308 @@
+{
+  "portfolio": [
+    {
+      "id": "long-XWsJwENtXyU",
+      "title": "10,000 hours in 15 minutes.",
+      "category": "Long Form",
+      "niche": "Personal Brand",
+      "image": "/work/long-XWsJwENtXyU.jpg",
+      "video": "XWsJwENtXyU",
+      "description": "A long-form video for Austin Schneider: “Give Me 15 Minutes, I’ll Give You 10,000 Hours of Agency Knowledge”."
+    },
+    {
+      "id": "long-7M00dYzOKgc",
+      "title": "The $1M content playbook.",
+      "category": "Long Form",
+      "niche": "Personal Brand",
+      "image": "/work/long-7M00dYzOKgc.jpg",
+      "video": "7M00dYzOKgc",
+      "description": "A long-form video for Jeremy Moser: “How I Create “Simple” Content That Makes $1 Million Every Month”."
+    },
+    {
+      "id": "long-WEy1gA3BfqE",
+      "title": "Boring businesses. Big opportunity.",
+      "category": "Long Form",
+      "niche": "Finance",
+      "image": "/work/long-WEy1gA3BfqE.jpg",
+      "video": "WEy1gA3BfqE",
+      "description": "A long-form video for Edmond Remington: “8 Boring Businesses That Are Making Students Rich In 2027”."
+    },
+    {
+      "id": "long-ItFE29E71EU",
+      "title": "Inside a billion-dollar brand.",
+      "category": "Long Form",
+      "niche": "Personal Brand",
+      "image": "/work/long-ItFE29E71EU.jpg",
+      "video": "ItFE29E71EU",
+      "description": "A long-form video for Marshall Crews: “I Copied Chrome Heart’s $1.5 Billion Clothing Brand Strategy (It worked)”."
+    },
+    {
+      "id": "long-vIon3UzkQOY",
+      "title": "The $200K clipping breakdown.",
+      "category": "Long Form",
+      "niche": "Finance",
+      "image": "/work/long-vIon3UzkQOY.jpg",
+      "video": "vIon3UzkQOY",
+      "description": "A long-form video for E1Farhan: “How I Made $200,000 Clipping for Andrew Tate (FULL BREAKDOWN)”."
+    },
+    {
+      "id": "digital-products",
+      "title": "A story worth staying for.",
+      "category": "Long Form",
+      "niche": "Finance",
+      "image": "/work/video-1.jpg",
+      "video": "rYUS7ibZhYo",
+      "description": "Long-form editing for Richard Yu’s “I Sell PDFs With AI and It Changed My Life (Revealing Everything)”. Story structure, pacing and visual clarity."
+    },
+    {
+      "id": "long-form-02",
+      "title": "An experiment worth following.",
+      "category": "Long Form",
+      "niche": "Personal Brand",
+      "image": "/work/video-2.jpg",
+      "video": "5y407oZ26r0",
+      "description": "Editing for DIGITAL INCOME PROJECT’s “I BLEW UP an AI influencer on instagram to prove its NOT Luck”. Watch the full experiment."
+    },
+    {
+      "id": "long-form-03",
+      "title": "Three days. Every moment counts.",
+      "category": "Long Form",
+      "niche": "Gaming",
+      "image": "/work/video-3.jpg",
+      "video": "Ouk0EnRwXbo",
+      "description": "Editing for Electrofv’s “I Had 3 Days to Make Earnings..”. A competitive gaming story shaped around the challenge."
+    },
+    {
+      "id": "the-big-surprise",
+      "title": "The big surprise.",
+      "category": "Thumbnails",
+      "niche": "Lifestyle",
+      "image": "/work/thumbnail-1.webp",
+      "description": "A clear emotional moment, a recognizable subject and a story you can read at a glance."
+    },
+    {
+      "id": "day-47",
+      "title": "The journey, in one frame.",
+      "category": "Thumbnails",
+      "niche": "Personal Brand",
+      "image": "/work/thumbnail-2.webp",
+      "description": "A personal brand thumbnail built around the creator and a specific moment in their journey."
+    },
+    {
+      "id": "three-days",
+      "title": "Three days. One challenge.",
+      "category": "Thumbnails",
+      "niche": "Gaming",
+      "image": "/work/thumbnail-3.webp",
+      "description": "Bold hierarchy and game-native visuals turn a competitive story into an instantly readable concept."
+    },
+    {
+      "id": "digital-product-system",
+      "title": "Make the idea tangible.",
+      "category": "Thumbnails",
+      "niche": "Finance",
+      "image": "/work/thumbnail-4.webp",
+      "description": "A product-led thumbnail with a direct visual promise. The numbers are part of the original video artwork, not Veylon performance claims."
+    },
+    {
+      "id": "money-story",
+      "title": "A reason to click.",
+      "category": "Thumbnails",
+      "niche": "Finance",
+      "image": "/work/thumbnail-5.webp",
+      "description": "A focused subject, strong contrast and a deliberate curiosity gap."
+    },
+    {
+      "id": "pdf-business",
+      "title": "One product. A bigger story.",
+      "category": "Thumbnails",
+      "niche": "Finance",
+      "image": "/work/thumbnail-6.webp",
+      "description": "A distinctive visual metaphor for a digital-product video. Figures shown are part of the creator’s original artwork."
+    },
+    {
+      "id": "new-creator-revenue",
+      "title": "The business behind the numbers.",
+      "category": "Thumbnails",
+      "niche": "Finance",
+      "image": "/work/new-thumbnail-11.webp",
+      "description": "A creator-led business story with multiple revenue streams made clear at a glance."
+    },
+    {
+      "id": "new-million-post",
+      "title": "The million-dollar post.",
+      "category": "Thumbnails",
+      "niche": "Finance",
+      "image": "/work/new-thumbnail-12.webp",
+      "description": "A bold subject and a specific social-media story designed to stand out in the feed."
+    },
+    {
+      "id": "new-tate-analysis",
+      "title": "A result with a face.",
+      "category": "Thumbnails",
+      "niche": "Personal Brand",
+      "image": "/work/new-thumbnail-6.webp",
+      "description": "The creator, source material and key figure share one focused frame."
+    },
+    {
+      "id": "new-250-day",
+      "title": "One number. A bigger question.",
+      "category": "Thumbnails",
+      "niche": "Finance",
+      "image": "/work/new-thumbnail-7.webp",
+      "description": "A clear daily figure connects a creator experiment to the people behind it."
+    },
+    {
+      "id": "new-day-three",
+      "title": "Day three, on the line.",
+      "category": "Thumbnails",
+      "niche": "Personal Brand",
+      "image": "/work/new-thumbnail-8.webp",
+      "description": "A time marker and original on-screen result make the experiment instantly legible."
+    },
+    {
+      "id": "brezplug",
+      "title": "Brezplug: built to be discovered.",
+      "category": "Short Form",
+      "niche": "Lifestyle",
+      "image": "/work/brezplug.webp",
+      "description": "The Veylon clipping channel for Roasbrez. Its highest-performing Short reached 54 million views, as reported by Veylon.",
+      "creator": "Brezplug / Roasbrez"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Roasbrez",
+      "niche": "Lifestyle"
+    },
+    {
+      "name": "Daniel Baturin",
+      "niche": "Finance"
+    },
+    {
+      "name": "Rhino",
+      "niche": "Personal Brand"
+    },
+    {
+      "name": "Electrofv",
+      "niche": "Gaming"
+    },
+    {
+      "name": "Haddy",
+      "niche": "Fitness"
+    }
+  ],
+  "plans": [
+    {
+      "id": "starter",
+      "name": "Build Momentum",
+      "price": "$249.99",
+      "frequency": "per month",
+      "description": "Keep your channel moving with consistent clips and stronger packaging.",
+      "features": [
+        "30 short-form clips per month",
+        "Up to 4 custom thumbnails",
+        "Packaging for up to 4 uploads",
+        "Multiple title options per upload",
+        "Descriptions, chapters and SEO",
+        "Monthly channel review"
+      ],
+      "recommended": false,
+      "cta": "Start growing",
+      "visible": true
+    },
+    {
+      "id": "growth",
+      "name": "Scale Faster",
+      "price": "$399.99",
+      "frequency": "per month",
+      "description": "More output, closer feedback and the first layer of sponsorship support.",
+      "features": [
+        "60 short-form clips per month",
+        "Up to 8 custom thumbnails",
+        "Packaging for up to 8 uploads",
+        "Competitor and topic research",
+        "Weekly performance review",
+        "Priority turnaround",
+        "Brand-deal outreach support",
+        "Sponsorship opportunity matching"
+      ],
+      "recommended": true,
+      "cta": "Start scaling",
+      "visible": true
+    },
+    {
+      "id": "partner",
+      "name": "Become Unstoppable",
+      "price": "$599.99",
+      "frequency": "per month",
+      "description": "A fuller content operation with planning and brand-deal coordination.",
+      "features": [
+        "90 short-form clips per month",
+        "Up to 12 custom thumbnails",
+        "Packaging for up to 12 uploads",
+        "Content calendar and planning",
+        "Weekly analytics review",
+        "Faster turnaround and support",
+        "Full brand outreach and pitching",
+        "Sponsorship negotiation support",
+        "Campaign and payment coordination"
+      ],
+      "recommended": false,
+      "cta": "Build my team",
+      "visible": true
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I still have to do?",
+      "a": "Bring your perspective and create the core content. You stay involved in the direction and the approvals that matter; we coordinate the work around it. Your exact responsibilities are agreed before we begin."
+    },
+    {
+      "q": "Can you work with my existing editor?",
+      "a": "Yes. We can build around an existing team and take responsibility for the parts you need help with. We agree ownership and handoffs so work stays coordinated."
+    },
+    {
+      "q": "Do you only work with large creators?",
+      "a": "No. We look for a clear direction, a commitment to creating and a genuine fit for our support. Tell us where you are now and what you want to build."
+    },
+    {
+      "q": "How does the one-week trial work?",
+      "a": "For suitable creators, we agree a focused one-week scope and a case-study permission agreement before starting. After the trial, you decide whether to continue with a paid plan. There is no automatic paid renewal."
+    },
+    {
+      "q": "How do revisions and delivery work?",
+      "a": "The number of revisions, deliverables and turnaround times are agreed in your scope. Your team shares current status, deadlines and the items that need your review."
+    },
+    {
+      "q": "Do you guarantee views or brand deals?",
+      "a": "No. Content performance and sponsorship opportunities depend on the audience, topic, market and many other factors. We commit to the agreed work, thoughtful execution and learning from the results."
+    },
+    {
+      "q": "How do sponsorships work?",
+      "a": "We help with relevant brand targeting, outreach, negotiation, coordination and payment tracking. Commercial terms and any commission are agreed separately before work begins."
+    },
+    {
+      "q": "Can I cancel?",
+      "a": "Billing, notice and cancellation terms are set out in your individual agreement before you become a paying client."
+    }
+  ],
+  "metrics": {
+    "shortViews": "54M",
+    "shortLabel": "views on the top-performing Short",
+    "dealValue": "$23K",
+    "dealLabel": "brand-deal value closed in one month"
+  },
+  "caseStudies": [
+    {
+      "id": "brezplug",
+      "title": "Brezplug. Built for discovery.",
+      "summary": "A clipping operation around Roasbrez’s content, with a top-performing Short reaching 54 million views.",
+      "metric": "54M",
+      "metricLabel": "views on the highest-performing Short",
+      "url": "https://www.youtube.com/@Brezplug/shorts",
+      "visible": true
+    }
+  ],
+  "testimonials": []
+}
